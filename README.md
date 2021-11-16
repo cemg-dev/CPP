@@ -11,3 +11,4 @@ Aprendizado da linguagem de programação C++
 - Laços
 - Funções
 - Ponteiros
+- Alocação Dinâmica
