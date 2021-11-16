@@ -10,3 +10,4 @@ Aprendizado da linguagem de programação C++
 - Condições
 - Laços
 - Funções
+- Ponteiros
